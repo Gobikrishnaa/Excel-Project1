@@ -40,7 +40,8 @@ The dataset contains the following columns:
 ---
 
 ## 📷 Dashboard Preview
-*(Add your dashboard screenshot here after uploading)*
+*<img width="856" height="385" alt="BMW Dashboard" src="https://github.com/user-attachments/assets/f60c90ea-c468-42e2-92b9-46d005dfe0d4" />
+*
 
 ---
 
