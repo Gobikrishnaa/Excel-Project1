@@ -60,7 +60,9 @@ The dataset contains the following columns:
 ---
 
 ## 📁 Project Files
-- `bmw_Data_analysis.csv.xlsx` → Main dataset & dashboard  
+- `[bmw_Data_analysis.csv.xlsx](https://github.com/user-attachments/files/25102609/bmw_Data_analysis.csv.xlsx)
+` <img width="856" height="385" alt="BMW Dashboard" src="https://github.com/user-attachments/assets/0b124888-c65d-4164-811c-b69463610b79" />
+→ Main dataset & dashboard  
 - `README.md` → Project documentation  
 
 ---
